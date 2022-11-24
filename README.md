@@ -1,4 +1,4 @@
-# eventListPeople 
+# imHere 
 
 Este foi o primeiro projeto do Ignite da RocketSeat, e o aplicativo tem como funções:
 
